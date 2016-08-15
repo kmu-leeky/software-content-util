@@ -1,6 +1,8 @@
-A set of utility script to run the software content
+# A set of utility script to run the software content
 
-Usage.
+## Get a list of IP address with a domain name
+..* Usage: ./get_referenced_ips.sh $DOMAIN_LIST_FILES 
+..* Examples: ./get_referenced_ips.sh reference_sites
+..* The input domain list file should contain one entry (URL) per one line
 
-Getting a list of IP addresses that the content website uses
 
